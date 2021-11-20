@@ -6,7 +6,7 @@ Python requests ve beautifulsoup kütüphaneleri ile örnek üzerinden öğrenme
 Özetle video içeriğinde,
 - Sık kullanılan HTTP durum kodları
 - Kullanacağımız modülleri tanıma ve kurulumu (Requests - BeautifulSoup)
-- <a>amazon.co.uk</a> sitesinden verileri çekme
+- <a>https://www.amazon.co.uk/</a> sitesinden verileri çekme
 - Mysql veritabanı oluşturma
 - Aldığımız verileri Mysql veritabanına kaydetme
 konularını içeriyor olacak.
